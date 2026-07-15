@@ -1,65 +1,101 @@
-# [!] AI TOOL BRUTAL [!]
+````md
+# ████████╗ ██████╗  ██████╗     ██████╗ ██████╗ ██╗   ██╗████████╗ █████╗ ██╗
+# ╚══██╔══╝██╔═══██╗██╔═══██╗    ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██║
+#    ██║   ██║   ██║██║   ██║    ██████╔╝██████╔╝██║   ██║   ██║   ███████║██║
+#    ██║   ██║   ██║██║   ██║    ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══██║██║
+#    ██║   ╚██████╔╝╚██████╔╝    ██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║███████╗
+#    ╚═╝    ╚═════╝  ╚═════╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
 
-> A BRUTALLY HONEST, ULTRA-FAST, AND QUIRKY AI TOOL DIRECTORY POWERED BY ASTRO & GOOGLE SHEETS.
-
----
-
-## [RAW DATA SPECS]
-
-- **FRAMEWORK:** ASTRO 5.x (ZERO-JS BY DEFAULT)
-- **BACKEND:** GOOGLE SHEETS (VIA CSV)
-- **AESTHETIC:** EXTREME BRUTALISM / NEUBRUTALISM
-- **FAVICON:** ANIMATED ASCII FLICKER
-- **PERFORMANCE:** 100/100 LIGHTHOUSE (EXPECTED)
-
----
-
-## [FEATURES]
-
-- **[18 TABS]** FETCHED AT BUILD-TIME FROM GOOGLE SHEETS.
-- **[UNIVERSAL SEARCH]** INSTANT CLIENT-SIDE FILTERING.
-- **[HAMBURGER OVERLAY]** QUIRKY FULL-SCREEN DIRECTORY NAVIGATION.
-- **[DARK MODE]** HIGH-CONTRAST TOXIC THEME (HARSH TOGGLE).
-- **[QUIRKY UI]** GRITTY TEXTURE, CAUTION TAPE, COORDINATE STAMPS.
-- **[HOTKEYS]**
-  - `/` -> SEARCH
-  - `M` -> MENU
-  - `T` -> THEME
-  - `ESC` -> CLOSE/BLUR
+> ## ⚠ WARNING
+>
+> This website may contain:
+>
+> - Oversized typography
+> - Hard edges
+> - High contrast
+> - Zero design mercy
+> - Excessive confidence
 
 ---
 
-## [DEPLOYMENT]
+# ◼ LIVE
 
-### 1. CLONE THE SOURCE
-```bash
-git clone https://github.com/NotNahid/ai-tool-brutal.git
-cd ai-tool-brutal
-npm install
+## https://notnahid.github.io/too-brutal/
+
+---
+
+# ◼ WHAT IS THIS?
+
+A brutalist web experiment.
+
+No gradients.
+No glassmorphism.
+No startup illustrations.
+No floating cards pretending to be innovative.
+
+Just typography.
+Shapes.
+Contrast.
+Attitude.
+
+---
+
+# ◼ STACK
+
+```txt
+ASTRO
+HTML
+CSS
+JAVASCRIPT
 ```
 
-### 2. BUILD
+---
+
+# ◼ RUN
+
+```bash
+git clone https://github.com/NotNahid/too-brutal.git
+cd too-brutal
+npm install
+npm run dev
+```
+
+---
+
+# ◼ BUILD
+
 ```bash
 npm run build
 ```
-*Note: Fetches 18 tabs sequentially to avoid Google Sheets timeouts.*
-
-### 3. SHIP IT
-PUSH THE CONTENTS OF THE `dist/` FOLDER TO YOUR `gh-pages` BRANCH.
 
 ---
 
-## [DATA UPDATES]
+# ◼ DEPLOYMENT
 
-THE SITE PRE-RENDERS DATA FROM THIS SOURCE:
-`https://docs.google.com/spreadsheets/d/e/2PACX-1vRMP1v7eaMKa1WF_3uP0Z6cgSHOYUt7JPJVU5a8i_TKiCehqRz6sfaJDouMgZgk_acnu0VuWGM5RTRL/pubhtml`
+```txt
+GITHUB PAGES
+```
 
-**TO UPDATE THE SITE:**
-1. MODIFY THE SPREADSHEET.
-2. RE-RUN THE BUILD/DEPLOY SCRIPT.
+https://notnahid.github.io/too-brutal/
 
 ---
 
-## [STAY BRUTAL]
-BUILT WITH 🖤 FOR NOTNAHID.
-[ https://notnahid.rf.gd/ ]
+# ◼ AUTHOR
+
+```txt
+NAHIDUL ISLAM
+@NOTNAHID
+```
+
+---
+
+┌───────────────────────────────────────┐
+│                                       │
+│   TOO MUCH DESIGN IS COWARDICE.       │
+│                                       │
+└───────────────────────────────────────┘
+
+████████████████████████████████████████
+█████  RED  █████ BLACK █████ WHITE ████
+████████████████████████████████████████
+````
