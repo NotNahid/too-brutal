@@ -83,7 +83,7 @@ https://notnahid.github.io/too-brutal/
 # ◼ AUTHOR
 
 ```txt
-NAHIDUL ISLAM
+NAHIDUL ISLAM.
 @NOTNAHID
 ```
 
